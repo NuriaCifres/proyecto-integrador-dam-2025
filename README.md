@@ -1,4 +1,4 @@
-# Projecte Integrador DAM 2025
+# Projecto Integrador DAM 2025
 
 ## Descripción
 Este proyecto consiste en una aplicación para conectar a particulares en la compra y venta de productos de segunda mano. La plataforma permite a los usuarios publicar productos, buscar artículos de interés y comunicarse con otros usuarios. Además, los empleados tienen la capacidad de moderar contenido y gestionar usuarios.
