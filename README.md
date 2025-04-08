@@ -1,5 +1,3 @@
-# proyecto-integrador-dam-2025 
-
 # Projecte Integrador DAM 2025
 
 ## Descripción
